@@ -1,0 +1,37 @@
+[
+	{
+		"id": "1",
+		"longitude": "106.82713",
+		"latitude": "-6.17531",
+		"description": "Monas adalah",
+		"name": "Monas"
+	},
+	{
+		"id": "2",
+		"longitude": "106.80009",
+		"latitude": "-6.20925",
+		"description": "MPR adalah",
+		"name": "MPR"
+	},
+	{
+		"id": "3",
+		"longitude": "106.80010",
+		"latitude": "-6.21025",
+		"description": "DPR adalah",
+		"name": "DPR"
+	},
+	{
+		"id": "4",
+		"longitude": "106.80187",
+		"latitude": "-6.21850",
+		"description": "GBK adalah",
+		"name": "GBK"
+	},
+	{
+		"id": "5",
+		"longitude": "106.83142",
+		"latitude": "-6.16986",
+		"description": "Istiqlal adalah",
+		"name": "Istiqlal"
+	}
+]
